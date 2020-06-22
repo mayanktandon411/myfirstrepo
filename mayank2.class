@@ -3,3 +3,9 @@ public static void main (String[] args){
         System.out.println("This is demo file");
 }
 }
+class mayank1{
+public static void main (String[] args){
+        System.out.println("This is demo file");
+	System.out.println("This file is updated after commit");
+}
+}
